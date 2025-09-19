@@ -115,14 +115,14 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
+<div>
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princegethub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=princegethub&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
+<div align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegethub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 </div>
 
 ---
@@ -142,7 +142,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-mishra-b61651320)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prince_mishra_372)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princegethub)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princemishra.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactprince24.7@gmail.com)
 
 </div>
 
