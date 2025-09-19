@@ -18,7 +18,7 @@
 - 🏢 **Current Role:** Full-Stack Software Developer at **[Tutree India Technologies Private Limited](https://tutree.com/)**
 - 🎓 **Education:** B.Tech in Computer Science from **Maharishi Dayanand University**
 - 📍 **Location:** Noida, Uttar Pradesh, India
-- 💼 **Experience:** Full Stack Developer & DevOps — Tutree (Apr 2025–Present, 6+ mo) | MarketingExl (Sep 2024–Apr 2025, 8+ mo) | Freelance (1+ yr)
+- 💼 **Experience:** Full Stack Developer & DevOps — Tutree (Apr 2025–Present, 6+ mo) | MarketingExl (Sep 2024–Apr 2025, 8+ mo)
 - 🔍 **Specialization:** MERN Stack, PostgreSQL, React Native, Cloud & DevOps (AWS, Docker, Kubernetes, CI/CD, Terraform, Ansible)
 
 ### 🎯 Current Focus
