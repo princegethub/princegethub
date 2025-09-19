@@ -18,7 +18,7 @@
 - 🏢 **Current Role:** Full-Stack Software Developer at **[Tutree India Technologies Private Limited](https://tutree.com/)**
 - 🎓 **Education:** B.Tech in Computer Science from **Maharishi Dayanand University**
 - 📍 **Location:** Noida, Uttar Pradesh, India
-- 💼 **Experience:** Apr 2025 - Present (6+ months) + Previous Freelance Experience
+- 💼 **Experience:** Full Stack Developer & DevOps — Tutree (Apr 2025–Present, 6+ mo) | MarketingExl (Sep 2024–Apr 2025, 8+ mo) | Freelance (1+ yr)
 - 🔍 **Specialization:** MERN Stack, PostgreSQL, React Native, Cloud & DevOps (AWS, Docker, Kubernetes, CI/CD, Terraform, Ansible)
 
 ### 🎯 Current Focus
@@ -104,9 +104,21 @@
 **Key Technologies:** MERN Stack, DevOps, Next.js, React.js, Node.js, Express, PostgreSQL, Redis, CI/CD
 
 ---
+### **Full-Stack Developer** | MarketingExl  
+*Sep 2024 – Apr 2025 (8+ months)*  
+
+🔹 Worked at a **service-based company** delivering **production-level applications**  
+🔹 Developed **scalable web platforms** and APIs using **React.js, Node.js, Express**  
+🔹 Integrated **third-party services & payment gateways**  
+🔹 Optimized **SQL queries & caching with Redis**  
+🔹 Contributed to **CI/CD, Docker, and AWS deployments**  
+
+**Key Technologies:** React.js, Node.js, Express, PostgreSQL, Redis, AWS  
+
+---
 
 ### **Freelance Full-Stack Developer**
-*February 2024 - February 2025 (1 year 1 month)*
+*February 2023 - September 2024 (1 year +)*
 
 🔹 Delivered custom web and mobile applications for various clients  
 🔹 Built responsive, user-friendly interfaces with modern UI/UX practices  
